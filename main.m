@@ -2,7 +2,7 @@ clc;
 clear;
 load('simulate_data.mat');
 
-% MVAR estimation parameter method selection
+% MVAR estimation method selection
 Method_flag = [1,2,3,4,5,6,7];
 
 % Model order

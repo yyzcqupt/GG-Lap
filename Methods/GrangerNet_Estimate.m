@@ -14,7 +14,7 @@ switch flag
     case 6
         ret = LAPPS_granger_regress(Data,NLAGS);%% LAP_SBL 
     case 7
-        ret = GGD_granger_regress(Data,NLAGS);%% GGD
+        ret = GGD_granger_regress(Data,NLAGS);%% GG_Lap
 end
 
 end
